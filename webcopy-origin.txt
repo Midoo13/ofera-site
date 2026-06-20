@@ -1,0 +1,24 @@
+Uri: https://bndag1.netlify.app/
+File Name: C:\Downloaded Web Sites\bndag1.netlify.app\index-1.htm
+Content Type: text/html
+
+Uri: https://bndag1.netlify.app/banglalink.png
+File Name: C:\Downloaded Web Sites\bndag1.netlify.app\banglalink.png
+Content Type: image/png
+
+Uri: https://bndag1.netlify.app/flag-bangladesh.webp
+File Name: C:\Downloaded Web Sites\bndag1.netlify.app\flag-bangladesh-1.webp
+Content Type: image/webp
+
+Uri: https://bndag1.netlify.app/grameenphone.png
+File Name: C:\Downloaded Web Sites\bndag1.netlify.app\grameenphone.png
+Content Type: image/png
+
+Uri: https://bndag1.netlify.app/robi.png
+File Name: C:\Downloaded Web Sites\bndag1.netlify.app\robi.png
+Content Type: image/png
+
+Uri: https://bndag1.netlify.app/teletalk.png
+File Name: C:\Downloaded Web Sites\bndag1.netlify.app\teletalk.png
+Content Type: image/png
+
